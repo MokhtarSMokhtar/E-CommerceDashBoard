@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="Multiple Projects">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../ITI.net /FinalProject/E-CommerceShop/AdminDashboard/appsettings.json">
+    <Files>
+      <File FileName="../../ITI.net /FinalProject/E-CommerceShop/ElectronicShopModel/RelationshipsMapping.cs" Line="1" Column="1" />
+      <File FileName="../../ITI.net /FinalProject/E-CommerceShop/ElectronicShopModel/ApplicationDbContext.cs" Line="16" Column="28" />
+      <File FileName="../../ITI.net /FinalProject/E-CommerceShop/AdminDashboard/appsettings.json" Line="18" Column="1" />
+      <File FileName="../../ITI.net /FinalProject/E-CommerceShop/AdminDashboard/AdminDashboard.csproj" Line="25" Column="1" />
+      <File FileName="../../ITI.net /FinalProject/E-CommerceShop/ElectronicShopModel/ElectronicShopModel.csproj" Line="1" Column="1" />
+      <File FileName="../../ITI.net /FinalProject/E-CommerceShop/AdminDashboard/Controllers/UserController.cs" Line="64" Column="1" />
+      <File FileName="../../ITI.net /FinalProject/E-CommerceShop/AdminDashboard/Controllers/RoleController.cs" Line="24" Column="1" />
+      <File FileName="../../ITI.net /FinalProject/E-CommerceShop/AdminDashboard/Controllers/OrderController.cs" Line="1" Column="1" />
+      <File FileName="../../ITI.net /FinalProject/E-CommerceShop/AdminDashboard/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="../../ITI.net /FinalProject/E-CommerceShop/AdminDashboard/Controllers/CategoryController.cs" Line="1" Column="1" />
+      <File FileName="../../ITI.net /FinalProject/E-CommerceShop/AdminDashboard/Controllers/BrandController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ECommerceDashBoard" expanded="True">
+            <Node name="AdminDashboard" expanded="True" />
+            <Node name="ElectronicShopModel" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects">
+      <Items>
+        <StartupItem ItemId="{88F16FEA-92B2-4E4D-9D8D-DD7A14A2E3DD}" ItemName="AdminDashboard" ConfigurationId="Default" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.AdminDashboard PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
